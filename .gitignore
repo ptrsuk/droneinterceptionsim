@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Batch output (regenerable)
+src/batch_out/
+
+# OS files
+Thumbs.db
+.DS_Store
